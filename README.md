@@ -2,7 +2,9 @@
 
 Moodflix is a React-based website project, that I designed to help myself at beginner level and to get started with learning React.js. The platform offers a sleek and modern experience for browsing and discovering movies.
 
-**[Live Demo](https://joyful-faun-4110f4.netlify.app/)**
+## Live Demo
+
+**[Experience it Live](https://joyful-faun-4110f4.netlify.app/)**
 
 ## 🔋 Features
 
